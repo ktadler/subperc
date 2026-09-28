@@ -1,6 +1,6 @@
 # Spaced deletions and bond percolation
 
-Code for Katerina Adler, Reuven Cohen, and Simi Haber, *Dismantling bond-percolation subgraphs of random regular graphs*.
+Code by Katerina Adler for the computations in *Dismantling bond-percolation subgraphs of random regular graphs*.
 
 ## The simulator
 
